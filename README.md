@@ -1,6 +1,6 @@
 # Talking Smart Glass For Blind
 
-![Person wearing smart glass](./images/IMG_20180605_092232.jpg)
+
 
 There are multiple smart accessories such as smart glasses, smart watches etc available in the market. But all of them are built for us.
 There is a significant lack of technology to aid the physically challenged. I wanted to build something that is useful for the visually challenged people. So i designed low cost smart glass that can be used to help the visually impaired.
